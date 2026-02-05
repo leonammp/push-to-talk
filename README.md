@@ -3,7 +3,6 @@
 ![Linux](https://img.shields.io/badge/platform-linux-blue)
 ![Python](https://img.shields.io/badge/python-3.x-green)
 ![Offline](https://img.shields.io/badge/AI-offline-important)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 Ditado por voz *push-to-talk* para Linux usando
 reconhecimento offline.
