@@ -32,13 +32,6 @@ estiver o cursor.
 \[ Segura tecla \] → \[ Grava áudio \] → \[ Transcrição offline (Vosk)
 \] → \[ Copia para clipboard \] → \[ Cola automaticamente \]
 
-Fluxo:
-
-1.  Segure a tecla configurada\
-2.  Fale normalmente\
-3.  Solte a tecla\
-4.  O texto é transcrito e colado automaticamente
-
 ------------------------------------------------------------------------
 
 ## 📦 Instalação
