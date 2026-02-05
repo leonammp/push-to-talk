@@ -30,7 +30,7 @@ estiver o cursor.
 ## 🧩 Como funciona?
 
 \[ Segura tecla \] → \[ Grava áudio \] → \[ Transcrição offline (Vosk)
-\] → \[ Copia para clipboard \] → \[ Cola automaticamente \]
+\] → \[ Copia e Cola automaticamente \]
 
 ------------------------------------------------------------------------
 
